@@ -1,0 +1,4 @@
+# ninja log v5
+116	151	1714572573546385098	CPP	945fcbedeead514
+1	12	1715433332158539033	build.ninja	cad6b3cd54f5c9be
+0	116	1714572573510385769	CMakeFiles/CPP.dir/week04/demos/array.cpp.o	26f6098dd96bc7b5

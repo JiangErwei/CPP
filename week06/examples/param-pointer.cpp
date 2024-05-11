@@ -26,6 +26,6 @@ int main()
     cout << "num1=" << num1 << endl;
     cout << "*p=" << *p << endl;
     cout << "num3=" << num3 << endl;
-    
+
     return 0;
 }
